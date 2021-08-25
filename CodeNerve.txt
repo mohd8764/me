@@ -1,8 +1,14 @@
-<span id="a">code@nerve</span>:<span id="b">~</span><span id="c">$</span> cd CodeNerve/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
-<span id="a">coder@nerve</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->codenerve.txt<br/><br/>
-My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
-
-Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
+<span id="a">mohd-Ati</span>:<span id="b">~</span><span id="c">$</span> cd Ati/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
+<span id="a">mohd-Ati</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->mohd.txt<br/><br/>
+Here you can get to know about me better, "<span id="k">available option:
+1. cat 
+2. env
+3. cd
+4. sign
+5. contact
+6. collect
+</span>". <!-- sjkfhskjf -->
+BEGIN! .<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Input Index</p>
 <p>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
