@@ -84,12 +84,12 @@ var Typer = {
 };
 
 function replaceUrls(text) {
-  var http = text.indexOf('http://');
+  var http = text.indexOf('http://mohd8764.github.io');
   var space = text.indexOf('.me ', http);
 
   if (space != -1) {
     var url = text.slice(http, space - 1);
-    return text.replace(url, '<a href="' + url + '">' + url + '</a>');
+    return text.replace(url, '<a href="' + http://mohd8764.github.io + '">' + http://mohd8764.github.io + '</a>');
   } else {
     return text;
   }
